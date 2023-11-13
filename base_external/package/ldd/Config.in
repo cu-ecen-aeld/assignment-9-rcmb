@@ -1,0 +1,5 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Incorporates the kernel image's defective and scull modules.
+	  Implemented to comprehend package builds and external buildroot trees.
