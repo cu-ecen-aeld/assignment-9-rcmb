@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_CHARDRIVER_VERSION =  6543d1538468c3d8877f3ad15686912ce6481f97
+AESD_CHARDRIVER_VERSION =  dc4e845f36f8745e0eff743956e8bcc451ba3dd0
 AESD_CHARDRIVER_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-rcmb.git
 
 AESD_CHARDRIVER_SITE_METHOD = git
